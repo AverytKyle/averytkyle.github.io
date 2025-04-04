@@ -1,6 +1,9 @@
 # Software Developer
 
-### Technical Skills: React.js, Redux, JavaScript, HTML, CSS, Python, Node.js, Express, SQL, PostgreSQL
+Technical Skills: React.js, Redux, JavaScript, HTML, CSS, Python, Node.js, Express, SQL, PostgreSQL
+
+## About Me
+As a new Software Developer, I bring a strong analytical mindset, a passion for problem-solving, and a keen eye for detail. I thrive on challenges, often approaching them like puzzles that require creative and efficient solutions. My ability to stay organized and focus on the smallest details while keeping the bigger picture in mind helps me build clean, effective code. Outside of development, I'm passionate about video games, which not only provide entertainment but also inspire my interest in coding and game mechanics. Whether it’s solving a complex coding problem or exploring new technology, I am excited to continuously learn and grow in the world of software development., 
 
 ## Education
 - App Academy, Full Stack Development | March 2024 – April 2025 
